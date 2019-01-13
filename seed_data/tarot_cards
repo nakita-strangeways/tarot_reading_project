@@ -1,37 +1,78 @@
-1|the_fool|New beginnings, optimism, trust in life
-2|the_magician|Action, the power to manifest
-3|the_popess|Inaction, going within, the subconscious
-4|the_empress|Abundance, nurturing, fertility, life in bloom!
-5|the_emperor|Structure, stability, rules and power
-6|the_pope|Institutions, tradition, society and its rules
-7|the_lovers|Sexuality, passion, choice, uniting
-8|the_chariot|Movement, progress, integration
-9|justice|Fairness, equality, balance
-10|the_hermit|Meditation, solitude, consciousness
-11|wheel_of_fortune|Cycles, change, ups and downs
-12|strength|Courage, subtle power, integration of animal self
-13|the_hanged_man|Surrender, new perspective, enlightenment
-14|death|The end of something, change, the impermeability of all things
-15|temperance|Balance, moderation, being sensible
-16|the_devil|Destructive patterns, addiction, giving away your power
-17|the_tower|Collapse of stable structures, release, sudden insight
-18|the_star|Hope, calm, a good omen!
-19|the_moon|Mystery, the subconscious, dreams
-20|the_sun|Success, happiness, all will be well
-21|judgement|Rebirth, a new phase, inner calling
-22|the_world|Completion, wholeness, attainment, celebration of life 
-23|king_of_wands|Career focused, mature, passionate
-24|queen_of_wands|Confidant, focused, has zest for life
-25|knight_of_wands|An adventurous risk taker who follows his passions
-26|page_of_wands|newly inspired, excited about life and work
-27|10_of_wands|Feeling oppressed, exhaustion, too many responsibilities 
-28|9_of_wands|Pessimism, gearing up for the worst
-29|8_of_wands|Speed, things manifesting quickly
-30|7_of_wands|Feeling defensive and on guard
-31|6_of_wands|Success, accolades and achievement
-32|5_of_wands|Competition, minor struggles or disagreements
-33|4_of_wands|Celebration, safety, the home
-34|3_of_wands|Reaping the rewards of your efforts
-35|2_of_wands|Contemplation, assessing ones life direction
-36|ace_of_wands|New beginnings, creative spark, fertile ideas
-37|king_of_cups|Repression of deep feelings, possible alcoholism
+1|the_fool|New beginnings, optimism, trust in life|the_fool(up).png
+2|the_magician|Action, the power to manifest|the_magician(up).png
+3|the_popess|Inaction, going within, the subconscious|the_pope(up).png
+4|the_empress|Abundance, nurturing, fertility, life in bloom!|the_empress(up).png
+5|the_emperor|Structure, stability, rules and power|the_emperor(up).png
+6|the_pope|Institutions, tradition, society and its rules|the_pope(up).png
+7|the_lovers|Sexuality, passion, choice, uniting|the_lovers(up).png
+8|the_chariot|Movement, progress, integration|the_chariot(up).png
+9|justice|Fairness, equality, balance|justice(up).png|
+10|the_hermit|Meditation, solitude, consciousness|the_hermit(up).png
+11|wheel_of_fortune|Cycles, change, ups and downs|wheel_of_fortune(up).png
+12|strength|Courage, subtle power, integration of animal self|strength(up).png
+13|the_hanged_man|Surrender, new perspective, enlightenment|the_hanged_man(up).png
+14|death|The end of something, change, the impermeability of all things|death(up).png
+15|temperance|Balance, moderation, being sensible|temperance(up).png
+16|the_devil|Destructive patterns, addiction, giving away your power|the_devil(up).png
+17|the_tower|Collapse of stable structures, release, sudden insight|the_tower(up).png
+18|the_star|Hope, calm, a good omen!|the_star(up).png
+19|the_moon|Mystery, the subconscious, dreams|the_moon(up).png
+20|the_sun|Success, happiness, all will be well|the_sun(up).png
+21|judgement|Rebirth, a new phase, inner calling|judgement(up).png
+22|the_world|Completion, wholeness, attainment, celebration of life|the_world(up).png 
+23|king_of_wands|Career focused, mature, passionate|king_of_wands(up).png
+24|queen_of_wands|Confidant, focused, has zest for life|queen_of_wands(up).png
+25|knight_of_wands|An adventurous risk taker who follows his passions|knight_of_wands(up).png
+26|page_of_wands|newly inspired, excited about life and work|page_of_wands(up).png
+27|10_of_wands|Feeling oppressed, exhaustion, too many responsibilities|10_of_wands(up).png
+28|9_of_wands|Pessimism, gearing up for the worst|9_of_wands(up).png
+29|8_of_wands|Speed, things manifesting quickly|8_of_wands(up).png
+30|7_of_wands|Feeling defensive and on guard|7_of_wands(up).png
+31|6_of_wands|Success, accolades and achievement|6_of_wands(up).png
+32|5_of_wands|Competition, minor struggles or disagreements|5_of_wands(up).png
+33|4_of_wands|Celebration, safety, the home|4_of_wands(up).png
+34|3_of_wands|Reaping the rewards of your efforts|3_of_wands(up).png
+35|2_of_wands|Contemplation, assessing ones life direction|2_of_wands(up).png
+36|ace_of_wands|New beginnings, creative spark, fertile ideas|ace_of_wands(up).png
+37|king_of_cups|Repression of deep feelings, possible alcoholism|king_of_cups(up).png
+38|queen_of_cups|Emotionally nurturing, intuitive, sensitive|queen_of_cups(up).png
+39|knight_of_cups|Romantic, adventurous, following one’s heart|knight_of_cups(up).png
+40|page_of_cups|Creative, inspired, learning artistic skill|page_of_cups(up).png
+41|10_of_cups|Emotional bliss, happiness, attainment|10_of_cups(up).png
+42|9_of_cups|Indulgence, self-satisfaction|9_of_cups(up).png
+43|8_of_cups|Abandoning something in search of something better|8_of_cups(up).png
+44|7_of_cups|So many choices! Indecision, getting lost in fantasy|7_of_cups(up).png
+45|6_of_cups|Sentimentality, kindness, help|6_of_cups(up).png
+46|5_of_cups|Dwelling on the negative, self pity|5_of_cups(up).png
+47|4_of_cups|Boredom, dissatisfaction with what is being offered|4_of_cups(up).png
+48|3_of_cups|Celebration, fun with friends, laughter|3_of_cups(up).png
+49|2_of_cups|Partnership, mutual attraction, compatibility|2_of_cups(up).png
+50|ace_of_cups|Emotional fulfillment, joy|ace_of_cups(up).png
+51|king_of_swords|Serious, controlling, rational and mind/intellect-focused|king_of_swords(up).png
+52|queen_of_swords|Intelligent, writer, communicative yet cold – cuts through B.S.|queen_of_swords(up).png
+53|knight_of_swords|Fierce, determined, aggressively pursues goals|knight_of_swords(up).png
+54|page_of_swords|Mentally unstable or intellectually immature, acts without thinking|page_of_swords(up).png
+55|10_of_swords|Feeling defeated, self sabotage|10_of_swords(up).png
+56|9_of_swords|Overactive mind, anxiety|9_of_swords(up).png
+57|8_of_swords|Feeling powerless and stuck|8_of_swords(up).png
+58|7_of_swords|Secret plans, abandoning ship|7_of_swords(up).png
+59|6_of_swords|Leaving, accepting help, going somewhere better|6_of_swords(up).png
+60|5_of_swords|Mind games, hostility|5_of_swords(up).png
+61|4_of_swords|Meditation, rest, retreat|4_of_swords(up).png
+62|3_of_swords|Heartbreak, betrayal|3_of_swords(up).png
+63|2_of_swords|Indecision|2_of_swords(up).png
+64|ace_of_swords|A fresh start, a sudden opportunity or idea, clarity|ace_of_swords(up).png
+65|king_of_coins|Enjoys the good life (food, drink and leisure), financially secure|king_of_coins(up).png
+66|queen_of_coins|Healthy in body and finances, grounded and calm|queen_of_coins(up).png
+67|knight_of_coins|Cautious, sensible and slow to progress|knight_of_coins(up).png
+68|page_of_coins|Student, commitment to learning|page_of_coins(up).png
+69|10_of_coins|Financial success, strong business relationships|10_of_coins(up).png
+70|9_of_coins|Luxury, rest, financial and material comforts|9_of_coins(up).png
+71|8_of_coins|Hard work, focused efforts, laying the groundwork|8_of_coins(up).png
+72|7_of_coins|Patience, waiting for your plans to bear fruit|7_of_coins(up).png
+73|6_of_coins|Charity, accepting and giving help|6_of_coins(up).png
+74|5_of_coins|Minor money troubles, health problems, feeling like an outsider|5_of_coins(up).png
+75|4_of_coins|Hoarding, feeling poor, holding self back out of fear|4_of_coins(up).png
+76|3_of_coins|Meaningful work, enjoying one’s work, suitable career|3_of_coins(up).png
+77|2_of_coins|Balance, multitasking|2_of_coins(up).png
+78|ace_of_coins|Financial reward, clarity of life purpose, goals|ace_of_coins(up).png
